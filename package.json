@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-clip-path",
+  "version": "1.0.0",
+  "description": "plugin for tailwindcss clip-path utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tailwindcss",
+    "css",
+    "clip-path"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mellambias/tailwind-clip-path"
+  },
+  "author": "Miguel E. Llambias",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
